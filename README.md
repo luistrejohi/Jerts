@@ -15,7 +15,7 @@ I'm Luis, a student from México 🌮, currently pursuing a degree in Mechatroni
 ## 🚀&nbsp; Core Tech 
 
 <p align='left'>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width='30' height='30'/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width=30 height=30/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="30" height="30"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="30" height="30"/> 
