@@ -1,5 +1,4 @@
 <h2 align="center">  Hi there ✌️ </h2>
-<iframe src="https://open.spotify.com/embed/track/1sUdq3kWa9dJXHu3eYOUll" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ![](https://komarev.com/ghpvc/?username=Jerts&color=blue)
 
@@ -35,5 +34,5 @@ I'm Luis, a student from México 🌮, currently pursuing a degree in Mechatroni
     <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="30" height="30"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="node" width="30" height="30"/>
 </p>
-
+<iframe src="https://open.spotify.com/embed/track/1sUdq3kWa9dJXHu3eYOUll" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Hey before you leave, take this, you'll feel better 🍫⚡
