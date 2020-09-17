@@ -1,6 +1,13 @@
+<style>
+      .img-container {
+        text-align: center;
+      }
+</style>
 <h2 align="center">  Hi there ✌️ </h2>
 <h3 align="center">🎃 Spooky season is coming!! 👻</h3>
-<p style="text-align:center;"><img src="https://raw.githubusercontent.com/Jerts/Jerts/master/giphy.gif" alt="alt text" width="100" height="100"></p>
+<div class="img-container"> <!-- Block parent element -->
+      <img src="https://raw.githubusercontent.com/Jerts/Jerts/master/giphy.gif" alt="alt text" width="100" height="100">
+</div>
 
 - - -
 
