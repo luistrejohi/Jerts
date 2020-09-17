@@ -4,6 +4,9 @@
 <div style="text-align: center;">
       <img src="https://raw.githubusercontent.com/Jerts/Jerts/master/giphy.gif" alt="alt text" width="100" height="100">
 </div>
+<p align="center">
+      <img src="https://raw.githubusercontent.com/Jerts/Jerts/master/giphy.gif" alt="alt text" width="100" height="100">
+</p>
 
 - - -
 
