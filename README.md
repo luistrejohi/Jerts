@@ -1,6 +1,6 @@
 
 <h2 align="center">  Hi there ✌️ </h2>
-<h3 align="center">☀Happy Spring🌻</h3>
+<h3 align="center">🏄🏻Happy Summer🌞</h3>
 <p align="center">
       <img src="https://raw.githubusercontent.com/Jerts/Jerts/master/giphy.gif" alt="alt text" width="100" height="100">
 </p>
